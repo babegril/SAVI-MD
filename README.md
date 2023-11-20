@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="">
-    <img alt="SAVI" height="300" src="https://i.imgur.com/rtjpVN6.jpeg">
+    <img alt="SAVI" height="300" src="https://telegra.ph/file/fe0764cd74cddc8bf44d9.jpg">
     <h1 align="center">SAVI MD </h1>
   </a>
 </p>
