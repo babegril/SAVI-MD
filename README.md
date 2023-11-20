@@ -6,8 +6,8 @@
 
 
  <p align="center">  
- <a href="[https://telegra.ph/file/72389d35aad079ce585de.png](https://telegra.ph/file/72389d35aad079ce585de.png)">
-    <img alt="SAVI MD" height="300" src="[https://telegra.ph/file/72389d35aad079ce585de.png]">
+ <a href="[https://i.imgur.com/rtjpVN6.jpeg](https://i.imgur.com/rtjpVN6.jpeg)">
+    <img alt="SAVI MD" height="300" src="[https://i.imgur.com/rtjpVN6.jpeg]">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝓢𝓐𝓥𝓘+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ꜱᴀᴠɪ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ꜱᴀᴠɪ+ᴀɴᴅ+ʙᴀɴᴜ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ꜱᴀᴠɪ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
