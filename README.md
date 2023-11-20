@@ -72,8 +72,8 @@ SAVI-MD- Simple Multi Device whatsapp bot.
 🤹‍♂️|**[`SAVI OFC`]**|
 
  <p align="center">  
- <a href="[https://telegra.ph/file/72389d35aad079ce585de.png]
-    <img alt="SAVI MD OWNER" height="80" src="[https://telegra.ph/file/72389d35aad079ce585de.png]">
+ <a href="[https://telegra.ph/file/fe0764cd74cddc8bf44d9.jpg]
+    <img alt="SAVI MD OWNER" height="80" src="[https://telegra.ph/file/fe0764cd74cddc8bf44d9.jpg]">
 
 **[» Contact For](https://wa.me/+94770377817)**
 ㅤ
