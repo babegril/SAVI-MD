@@ -3,12 +3,11 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : FORZEN-MD
- * @author : YASIYA-OFC <https://github.com/yasiyaofc1>
- * @description : FORZEN-MD,A Multi-functional whatsapp bot.
+ * @project_name : SAVI-MD
+ * @author : SAVI-OFC <https://github.com/yBlacksavi>
+ * @description : SAVI-MD,A Multi-functional whatsapp bot.
  * @version 1.0.0
  **/
-
  const { cmd, parseJid,getAdmin,tlang } = require("../lib/");
  const eco = require('discord-mongoose-economy')
  const ty = eco.connect(mongodb);
