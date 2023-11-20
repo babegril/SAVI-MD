@@ -1,15 +1,15 @@
 {
-               "name": "forzen-md",
+               "name": "savi-md",
                "version": "1.0.5",
-               "description": "Multi device whatsapp bot by Yasiya.",
+               "description": "Multi device whatsapp bot by Saviya.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
                 "start": "pm2 start lib/client.js --deep-monitoring --attach --name Forzen-MD",
-                "stop": "pm2 stop Forzen-MD"
+                "stop": "pm2 stop Savi-MD"
                 },
-               "author": "Yasiya-OFC",
+               "author": "SAVI-OFC",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -99,10 +99,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/yasiyaofc1/FORZEN-MD.git"
+                 "url": "git+https://github.com/babegril/SAVI-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/yasiyaofc1/FORZEN-MD/issues"
+                 "url": "https://github.com/babegril/SAVI-MD/issues"
                   },
-                 "homepage": "https://github.com/yasiyaofc1/FORZEN-MD#readme"
+                 "homepage": "https://github.com/babegril/SAVI-MD#readme"
                   }
