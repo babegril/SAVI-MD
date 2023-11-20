@@ -1,13 +1,23 @@
-  <div align="center">
-   
-## ❄️ 𝑭𝑶𝑹𝒁𝑬𝑵 𝑴𝑫 𝑾𝑯𝑨𝑻𝑺𝑨𝑷𝑷 𝑩𝑶𝑻 ❄️ 
 
-##        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=17202A&lines=🌸+Version+1+.+0+🌸;🌸+Version+1+.+0+🌸)](https://git.io/typing-svg)
+<p align="center">  
+  <a href="">
+    <img alt="SAVI" height="300" src="https://i.imgur.com/rtjpVN6.jpeg">
+    <h1 align="center">SAVI MD </h1>
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/babegril"><img title="Author" src="https://img.shields.io/badge/SAVI-BOT-black?style=for-the-badge&logo=telegram"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/babegril?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/babegril?label=Followers&style=social"></a>
+<a href="https://github.com/babegril/SAVI_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/babegril/SAVI_MD?&style=social"></a>
+<a href="https://github.com/babegril/SAVI_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/babegril/SAVI_MD?style=social"></a>
+<a href="https://github.com/babegril/SAVI_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/babegril/SAVI_MD?label=Watching&style=social"></a>
+</p>
 
+####  
+SAVI-MD- Simple Multi Device whatsapp bot.
 
- <p align="center">  
- <a href="[https://i.imgur.com/rtjpVN6.jpeg](https://i.imgur.com/rtjpVN6.jpeg)">
-    <img alt="SAVI MD" height="300" src="[https://i.imgur.com/rtjpVN6.jpeg]">
 
     
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝓢𝓐𝓥𝓘+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ꜱᴀᴠɪ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ꜱᴀᴠɪ+ᴀɴᴅ+ʙᴀɴᴜ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ꜱᴀᴠɪ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
