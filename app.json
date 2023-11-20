@@ -1,14 +1,14 @@
 {
-  "name": "FORZEN-MD",
+  "name": "SAVI-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg",
-  "keywords": ["nodejs", "bot", "FORZEN-MD", "YASIYA-OFC", "INDUWARA", "Secktor","YASIYA","theme bot","multi device","baileys","Sam Pandey"],
+  "logo": "https://telegra.ph/file/fe0764cd74cddc8bf44d9.jpg",
+  "keywords": ["nodejs", "bot", "SAVI-MD", "SAVI-OFC", "BANU", "Secktor","SAVIYA","theme bot","multi device","baileys","Sam Pandey"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "Name of Bot Owner",
-      "value": "YASIYA OFC"
+      "value": "SAVI"
       },
     "HEROKU_API_KEY": {
     "description": "Put HEROKU API KEY",
@@ -20,7 +20,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/0b5a7839e8ee21874921e.jpg"
+     "value": "https://telegra.ph/file/fe0764cd74cddc8bf44d9.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -61,10 +61,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "94760018802"
+       "value": "94770377817"
   },
    "SESSION_ID": {
-    "description": "Please put your SESSION_ID here,if you don't have visit https://replit.com/@DarkYasiyaofc/FORZEN-MD-V1"
+    "description": "Please put your SESSION_ID here"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com ",
@@ -76,8 +76,8 @@
     "value": ""
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are FORZEN-MD (DON'T CHANGE THIS)",
-     "value": "FORZEN-MD"
+    "description": "Put the theme name you want to use. Avilable themes are SAVI-MD (DON'T CHANGE THIS)",
+     "value": "SAVI-MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -90,7 +90,7 @@
   },
   "PACK_INFO": {
     "description": "Put packname;authorname.",
-     "value": "YASIYA;FORZEN-MD",
+     "value": "SAVI;SAVI-MD",
      "required": false 
   },
   "heroku": {
