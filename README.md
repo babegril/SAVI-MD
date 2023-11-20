@@ -6,19 +6,19 @@
 
 
  <p align="center">  
- <a href="[https://telegra.ph/file/953048fb3aa3aae12a12a.jpg](https://telegra.ph/file/0b5a7839e8ee21874921e.jpg)">
-    <img alt="FORZEN MD" height="300" src="https://telegra.ph/file/0b5a7839e8ee21874921e.jpg">
+ <a href="[https://telegra.ph/file/72389d35aad079ce585de.png](https://telegra.ph/file/72389d35aad079ce585de.png)">
+    <img alt="SAVI MD" height="300" src="[https://telegra.ph/file/72389d35aad079ce585de.png]">
 
     
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝑭𝑶𝑹𝒁𝑬𝑵+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ʏᴀsɪʏᴀ+ᴏғғɪᴄɪᴀʟ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ʏᴀsɪʏᴀ+ᴀɴᴅ+ɪɴᴅᴜᴡᴀʀᴀ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ᴄʏʙᴇʀ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨:+𝓢𝓐𝓥𝓘+𝑴𝑫+𝑩𝑶𝑻;ᴏᴡɴᴇʀ+ʙʏ+ꜱᴀᴠɪ;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+ꜱᴀᴠɪ+ᴀɴᴅ+ʙᴀɴᴜ;ᴘᴏᴡᴇʀᴅ+ʙʏ:+ꜱᴀᴠɪ+ᴡᴀʀʀɪᴏʀs+x+ᴛᴇᴀᴍ)](https://git.io/typing-svg)
 
 
-![forks](https://img.shields.io/github/forks/yasiyaofc1/FORZEN-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/babegril/SAVI-MD?label=Forks&style=social)
 
-![stars](https://img.shields.io/github/stars/yasiyaofc1/FORZEN-MD?style=social)
+![stars](https://img.shields.io/github/stars/babegril/SAVI-MD?style=social)
 
 ----------
-<a aria-label="Join our chats" href="https://chat.whatsapp.com/L2i6oDCjljt4mtBTUvTh7t" target="_blank">
+<a aria-label="Join our chats" href="coming soon" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/Join Supporter Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   
@@ -34,7 +34,7 @@
 
 ●. ***Get a Mongodb uri from [railway.app](https://railway.app).***
 
-●.  ***Click [FORK](https://github.com/yasiyaofc1/FORZEN-MD/fork)***
+●.  ***Click [FORK](https://github.com/babegril/SAVI-MD/fork)***
 
 ## ```SCAN QR CODE```
 ---
@@ -51,31 +51,21 @@
 
 ---
 ## ```HEROKU DEPLOYMENT```
-# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yasiyaofc1/FORZEN-MD)
+# [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/babegril/SAVI-MD)
 
 ----------
 ㅤ
-## **`💃 FORZEN MD BOT OWNERS,`**
+## **`💃 SAVI MD BOT OWNERS,`**
 ㅤ
 
 
-🤹‍♂️|**[`YASIYA OFC`]**|
+🤹‍♂️|**[`SAVI OFC`]**|
 
  <p align="center">  
- <a href="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
-    <img alt="FORZEN MD MD OWNER" height="80" src="https://telegra.ph/file/896953d764d69c906a4b7.jpg">
+ <a href="[https://telegra.ph/file/72389d35aad079ce585de.png]
+    <img alt="SAVI MD OWNER" height="80" src="[https://telegra.ph/file/72389d35aad079ce585de.png]">
 
-**[» Contact For](https://wa.me/+94760018802)**
+**[» Contact For](https://wa.me/+94770377817)**
 ㅤ
  ㅤ
- ---
-⚜️|**[`MR INDUVARA`]**|
 
- <p align="center">  
- <a href="[https://telegra.ph/file/903e16f9effd8de11cc76.jpg](https://telegra.ph/file/903e16f9effd8de11cc76.jpg)">
-    <img alt="FORZEN MD OWNER" height="80" src="https://telegra.ph/file/903e16f9effd8de11cc76.jpg">
- 
-**[» Contact For](https://wa.me/+94719735716)**
-ㅤ
-ㅤㅤㅤ
----
